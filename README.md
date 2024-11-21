@@ -8,7 +8,7 @@ These mods are created to enhance gameplay, introduce new features, and provide 
 
 ---
 
-### View My Mods on Vintage Story Mod DB: 
+## View My Mods on Vintage Story Mod DB: 
 [![Vintage Story Logo](./assets/vsmoddb-logo-s.png)](https://mods.vintagestory.at/list/mod?userid=257617)
 
 ---
