@@ -1,7 +1,6 @@
 # Mods for Vintage Story by XenWulf
 
 ![Vintage Story Logo](./assets/vintage-story-logo.png)
-![XenWulf Logo](./assets/xenwulf-logo.png)
 
 Welcome to my collection of mods for **Vintage Story**, an immersive sandbox survival game. These mods are created to enhance gameplay, introduce new features, and provide players with a richer experience.
 
