@@ -1,8 +1,10 @@
 # Mods for Vintage Story by XenWulf
 
-![Vintage Story Logo](./assets/vintage-story-logo.png)
+[![Vintage Story Logo](./assets/vintage-story-logo.png)](https://www.vintagestory.at/)
 
-Welcome to my collection of mods for [**Vintage Story**](https://www.vintagestory.at/), an immersive sandbox survival game. These mods are created to enhance gameplay, introduce new features, and provide players with a richer experience.
+Welcome to my collection of mods for [**Vintage Story**](https://www.vintagestory.at/), an immersive sandbox survival game. 
+
+These mods are created to enhance gameplay, introduce new features, and provide players with a richer experience.
 
 ---
 
@@ -12,6 +14,9 @@ Welcome to my collection of mods for [**Vintage Story**](https://www.vintagestor
 |-------------------|----------------------------------------------|----------------|
 | **[Mod Name]**    | Brief description of what the mod does.      | ✅ Released    |
 | **[Mod Name]**    | Brief description of what the mod does.      | ⚙️ In Progress |
+
+View My Mods: 
+[![Vintage Story Logo](./assets/vintage-story-logo.png)](https://mods.vintagestory.at/list/mod?userid=257617)
 
 ---
 
