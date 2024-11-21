@@ -4,12 +4,6 @@
 
 Welcome to my collection of mods for **Vintage Story**, an immersive sandbox survival game. These mods are created to enhance gameplay, introduce new features, and provide players with a richer experience.
 
-## Features
-
-- **Custom Mods**: Designed to add new mechanics, content, and quality-of-life improvements.
-- **Optimized for Performance**: Ensures smooth integration with the game.
-- **Regular Updates**: Actively maintained to keep up with the latest Vintage Story versions.
-
 ---
 
 ## Mod List
