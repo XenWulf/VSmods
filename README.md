@@ -15,7 +15,7 @@ These mods are created to enhance gameplay, introduce new features, and provide 
 | **[Mod Name]**    | Brief description of what the mod does.      | ✅ Released    |
 | **[Mod Name]**    | Brief description of what the mod does.      | ⚙️ In Progress |
 
-View My Mods: 
+### View My Mods on Vintage Story Mod DB: 
 [![Vintage Story Logo](./assets/vsmoddb-logo-s.png)](https://mods.vintagestory.at/list/mod?userid=257617)
 
 ---
