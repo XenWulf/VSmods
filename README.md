@@ -29,10 +29,10 @@ If you encounter any issues or have suggestions, please create an issue in the [
 ## Author
 
 [**XenWulf**](https://www.vintagestory.at/profile/257617-xenwulf/)
-Passionate about enhancing the Vintage Story experience through custom mods.  
-![XenWulf Logo](./assets/xenwulf-logo.png)
+Passionate about enhancing the Vintage Story experience through custom mods.
+[![XenWulf Logo](./assets/xenwulf-logo.png)](https://www.vintagestory.at/profile/257617-xenwulf/)  
 
 ---
 
 ### Acknowledgments
-- Thanks to the [**Vintage Story**](https://www.vintagestory.at/) development team for an incredible game and a robust modding API.
+Thanks to the [**Vintage Story**](https://www.vintagestory.at/) development team for an incredible game and a robust modding API.
