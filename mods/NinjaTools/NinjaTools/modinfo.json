@@ -1,11 +1,11 @@
 {
     "type": "code",
     "modid": "ninjatools",
-    "name": "NinjaTools",
+    "name": "Ninja Tools",
     "authors": [
-        "Unknown"
+        "XenWulf"
     ],
-    "description": "To be added",
+    "description": "Add Ninja Tools to Vintage Story!",
     "version": "1.0.0",
     "dependencies": {
         "game": ""

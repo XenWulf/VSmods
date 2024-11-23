@@ -1,0 +1,99 @@
+{
+  "code": "smokebombitem",
+  "class": "ninjatools.smokebombitem",
+  "displayName": "Smoke Bomb",
+  "creativeinventory": {
+    "general": [ "*" ],
+    "ninjaTools": [ "*" ]
+  },
+  "behaviors": [
+    {
+      "name": "Throwable",
+      "properties": {
+        "velocity": 1.5,
+        "throwingAngle": 30
+      }
+    }
+  ],
+  "attributes": {
+    "damage": 0
+  },
+  "texture": {
+    "base": "item/smokebomb"
+  },
+  "shape": {
+    "base": "item/smokebomb"
+  },
+  "guiTransform": {
+    "translation": {
+      "x": 2,
+      "y": 1,
+      "z": 0
+    },
+    "rotation": {
+      "x": 150,
+      "y": -38,
+      "z": 0
+    },
+    "origin": {
+      "x": 0.5,
+      "y": 0.1,
+      "z": 0.5
+    },
+    "scale": 3.5
+  },
+  "fpHandTransform": {
+    "translation": {
+      "x": 0.05,
+      "y": 0.2,
+      "z": 0
+    },
+    "rotation": {
+      "x": 94,
+      "y": 95,
+      "z": -21
+    },
+    "origin": {
+      "x": 0.5,
+      "y": 0.1,
+      "z": 0.5
+    },
+    "scale": 1.78
+  },
+  "tpHandTransform": {
+    "translation": {
+      "x": -0.8,
+      "y": -0.22,
+      "z": -0.7
+    },
+    "rotation": {
+      "x": -44,
+      "y": 7,
+      "z": -9
+    },
+    "origin": {
+      "x": 0.5,
+      "y": 0.1,
+      "z": 0.5
+    },
+    "scale": 0.7
+  },
+  "groundTransform": {
+    "translation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "origin": {
+      "x": 0.5,
+      "y": 0,
+      "z": 0.5
+    },
+    "scale": 4.5
+  }
+}
